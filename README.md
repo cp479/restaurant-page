@@ -1,5 +1,5 @@
 # restaurant-page
-<h1>V2.0</h1>
+<h1>V3.0</h1>
 <ul>
 <li> Re-visit next time
 </li>
